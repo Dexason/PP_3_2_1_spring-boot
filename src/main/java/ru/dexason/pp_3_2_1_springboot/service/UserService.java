@@ -1,6 +1,5 @@
-package web.service;
-
-import web.model.User;
+package ru.dexason.pp_3_2_1_springboot.service;
+import ru.dexason.pp_3_2_1_springboot.model.User;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package web.model;
+package ru.dexason.pp_3_2_1_springboot.model;
 
 import jakarta.persistence.*;
 

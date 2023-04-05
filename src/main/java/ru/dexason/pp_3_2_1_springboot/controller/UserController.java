@@ -1,10 +1,10 @@
-package web.controller;
+package ru.dexason.pp_3_2_1_springboot.controller;
 
-import web.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import web.service.UserService;
+import ru.dexason.pp_3_2_1_springboot.model.User;
+import ru.dexason.pp_3_2_1_springboot.service.UserService;
 
 @Controller
 @RequestMapping("/users")

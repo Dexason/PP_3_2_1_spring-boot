@@ -1,9 +1,10 @@
-package web.service;
+package ru.dexason.pp_3_2_1_springboot.service;
 
-import web.model.User;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import web.repositories.UserRepositories;
+import ru.dexason.pp_3_2_1_springboot.model.User;
+import ru.dexason.pp_3_2_1_springboot.repositories.UserRepositories;
+
 
 import java.util.List;
 import java.util.Optional;
